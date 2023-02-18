@@ -1,2 +1,2 @@
-# tetris
+# Snake
 Test

@@ -1,4 +1,4 @@
-package tetris;
+package snake;
 
 import grid.Grid;
 
